@@ -34,3 +34,7 @@
 #Compile folders
 bin
 build
+out
+
+#IDEs
+.vs
