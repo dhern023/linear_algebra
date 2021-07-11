@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+Makefile
+CMakeCache.txt
+*.cmake
 
 # Precompiled Headers
 *.gch
@@ -35,6 +38,8 @@
 bin
 build
 out
+CMakeFiles
 
 #IDEs
 .vs
+.vscode
