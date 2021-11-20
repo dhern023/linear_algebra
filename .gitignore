@@ -43,3 +43,6 @@ CMakeFiles
 #IDEs
 .vs
 .vscode
+
+# Docker
+.devcontainer
